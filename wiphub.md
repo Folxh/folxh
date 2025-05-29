@@ -1,3 +1,4 @@
+<h2 align="center">Deprecated. Find the newer version on my github.</h2>
 <h1 align="center">Welcome to my github!</h1>
 
 Hello! I'm Pickle, and I make shredders in Plane Crazy on Roblox.
