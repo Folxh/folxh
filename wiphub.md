@@ -1,4 +1,4 @@
-# Welcome to My Github!
+<h1 align="center">Welcome to my github!</h1>
 
 Hello! I'm Pickle, and I make shredders in Plane Crazy on Roblox.
 <br>
@@ -12,7 +12,7 @@ Note: This is still a WIP. I'm by no means done with making these silly websites
 
 Here are my resources for help with making shredders.
 
-- [Custom Shredder Camos](https://example.com/images/beach.jpg)
+- [Custom Shredder Camos](https://folxh.github.io/ShredderCamos/)
 
 ---
 
