@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pickle</h1>
+<h1 align="center">Hi, I'm Pickle</h1>
 <h3 align="center">A passionate shredder user :eww:</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=folxh&label=Profile%20views&color=0e75b6&style=flat" alt="folxh" /> </p>
