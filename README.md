@@ -1,15 +1,7 @@
 <h1 align="center">Hi, I'm Pickle</h1>
-<h3 align="center">A passionate shredder user :eww:</h3>
+<h3 align="center">A shredder user</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=folxh&label=Profile%20views&color=0e75b6&style=flat" alt="folxh" /> </p>
-
-- 🔭 I’m currently working on **guides for shredder types, and a "hub" of sorts for all my resources**
-
-- 🌱 I’m currently learning **how to make good shredders :sob:**
-
-- 👯 I’m looking to collaborate on **anything, really**
-
-- 📝 I will regularly write articles on **a blog, soon**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
